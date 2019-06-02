@@ -1,0 +1,20 @@
+================
+ SEAN ANIMATION
+================
+IDLE:  		442 - 499
+IDLE2: 		08  - 34
+WALK:		285 - 303
+WALK W/ ITEM:	304 - 322
+SPRINT:		72  - 106
+SUCCESS:	48  - 62
+FAIL:		184 - 218
+THROW:		113 - 168
+----------------
+WITH PROPS
+----------------
+REPAIR:		323 - 338
+FOOTPUMP:	367 - 379
+WIPE:		340 - 366
+PAINT:		380 - 406
+PUT NEWSPAPER:	407 - 441
+================	

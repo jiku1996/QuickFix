@@ -1,0 +1,22 @@
+===============
+ MAE ANIMATION
+===============
+TO IDLE:  	05 - 25
+IDLE: 		25 - 70  (ANY_STATE) 
+TO IDLE2:	110 - 128 
+IDLE2:		128 - 159
+WALK:		193 - 217
+WALK W/ ITEM:	226 - 250
+SPRINT:		255 - 273
+SUCCESS:	286 - 309
+FAIL:		350 - 379
+THROW:		562 - 611
+----------------
+WITH PROPS
+----------------
+REPAIR:		614 - 628
+FOOTPUMP:	540 - 558
+WIPE:		402 - 436
+PAINT:		450 - 478
+PUT NEWSPAPER:	630 - 671
+================	

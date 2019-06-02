@@ -1,0 +1,20 @@
+================
+ ROSE ANIMATION
+================
+IDLE:  		05 - 110
+IDLE2: 		115 - 192
+WALK:		200 - 224
+WALK W/ ITEM:	226 - 250
+SPRINT:		255 - 271
+SUCCESS:	286 - 325
+FAIL:		350 - 395
+THROW:		562 - 611
+----------------
+WITH PROPS
+----------------
+REPAIR:		614 - 628
+FOOTPUMP:	540 - 558
+WIPE:		402 - 436
+PAINT:		450 - 530
+PUT NEWSPAPER:	630 - 671
+================	

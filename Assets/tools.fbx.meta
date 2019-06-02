@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: 74cbe22001697234db55624cc4821e1f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Alicates
+    100002: Armario
+    100004: Destornillador
+    100006: Enganches
+    100008: Enganches2
+    100010: HackSaw
+    100012: HackSawBlade
+    100014: Hammer
+    100016: Lima
+    100018: Llaves
+    100020: Nivel
+    100022: Nivel1
+    100024: Plano_Nivel
+    100026: PlasticHammer
+    100028: polySurface6
+    100030: Regla
+    100032: Sargento
+    100034: //RootNode
+    100036: transform10
+    100038: transform11
+    100040: transform12
+    100042: transform13
+    100044: transform14
+    100046: transform15
+    100048: transform16
+    100050: transform17
+    100052: transform18
+    100054: transform3
+    100056: transform4
+    100058: transform5
+    100060: transform6
+    100062: transform7
+    100064: transform8
+    100066: transform9
+    400000: Alicates
+    400002: Armario
+    400004: Destornillador
+    400006: Enganches
+    400008: Enganches2
+    400010: HackSaw
+    400012: HackSawBlade
+    400014: Hammer
+    400016: Lima
+    400018: Llaves
+    400020: Nivel
+    400022: Nivel1
+    400024: Plano_Nivel
+    400026: PlasticHammer
+    400028: polySurface6
+    400030: Regla
+    400032: Sargento
+    400034: //RootNode
+    400036: transform10
+    400038: transform11
+    400040: transform12
+    400042: transform13
+    400044: transform14
+    400046: transform15
+    400048: transform16
+    400050: transform17
+    400052: transform18
+    400054: transform3
+    400056: transform4
+    400058: transform5
+    400060: transform6
+    400062: transform7
+    400064: transform8
+    400066: transform9
+    2100000: lambert7
+    2100002: phong4
+    2100004: BlueLam
+    2100006: 16 - Default
+    2100008: 23 - Default
+    2100010: 03 - Default
+    2100012: lambert9
+    2100014: lambert8
+    2100016: box
+    2100018: RedLambert
+    2300000: Nivel1
+    3300000: Nivel1
+    4300000: Nivel1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
