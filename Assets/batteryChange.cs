@@ -55,6 +55,7 @@ public class batteryChange : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+    //updates the condition to the car manager. -1 decreases the number of faults.
         if (sendCond)
         {
             cm.faults -= 1;
@@ -83,6 +84,7 @@ public class batteryChange : MonoBehaviour
             objectLocation pOL = collision.transform.GetComponent<objectLocation>();
             if (Input.GetKeyDown(kc[index[collision.transform.GetComponent<UserMovement>().charIndexNumber]]))
             {
+            //starts the minigame three. 
                 g_Three = Instantiate(gThree, new Vector3(transform.position.x, -23, transform.position.z), Quaternion.identity);
                 oilChangeIcon.SetActive(false);
                 g_Three.GetComponent<gameFour>().pName = collision.transform.name;
