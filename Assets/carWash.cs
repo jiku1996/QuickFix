@@ -47,6 +47,7 @@ public class carWash : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+     //updates the condition to the car manager. -1 decreases the number of faults.
         if (sendcondition)
         {
             cm.faults -= 1;
