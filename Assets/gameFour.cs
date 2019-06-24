@@ -5,6 +5,8 @@ using UnityEngine.UI;
 
 public class gameFour : MonoBehaviour
 {
+
+//the script is for the minigame four
     [SerializeField]
     Image fil;
     
@@ -40,6 +42,7 @@ public class gameFour : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+    //lets the minigame know which character initiated the game.
         switch (pName)
         {
 
