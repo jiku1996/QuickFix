@@ -84,6 +84,7 @@ public class objectLocation : MonoBehaviour
         }
     }
 
+//sends the tag of Gameobject obj
     public string sendTag()
     {
         if(obj != null)
@@ -96,6 +97,7 @@ public class objectLocation : MonoBehaviour
         }
     }
 
+//delets the obj
     public void deleteObj()
     {
         GameObject toDel;
@@ -104,6 +106,7 @@ public class objectLocation : MonoBehaviour
         obj = null;
     }
 
+//Gameobject obj's parent changes to gib Gameobject
     public void giveObject(GameObject gib)
     {
         GameObject temp;
